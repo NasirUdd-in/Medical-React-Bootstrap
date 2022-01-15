@@ -1,6 +1,6 @@
 # React Firebase Medical Apps
 
-Live Server Link: [Live here](https://github.com/facebook/create-react-app).
+Live Server Link: [Live here](https://wizardly-nobel-e407aa.netlify.app/).
 
 This is a medical website create with react firebase.
 ## Available in this site
