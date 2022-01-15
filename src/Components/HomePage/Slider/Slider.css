@@ -1,0 +1,18 @@
+.carousel-caption {
+  width: 45%;
+  z-index: 10;
+  color: black;
+  text-align: left;
+  top: 30%;
+  left: 10%;
+  right: auto;
+  bottom: auto;
+}
+.slider-title {
+ font-size: 50px;
+ color: #22343d;
+}
+.slider-text {
+  font-size: 18px;
+  color: #3d4549;
+}
